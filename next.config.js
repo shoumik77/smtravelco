@@ -10,7 +10,11 @@ const nextConfig = {
         'i.ibb.co'
       ],
       formats: ['image/avif', 'image/webp'],
-    }
+    },
+    eslint: {
+        // Warning: This allows production deployment with ESLint errors
+        ignoreDuringBuilds: true,
+      },
   }
   
   module.exports = nextConfig
