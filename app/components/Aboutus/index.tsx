@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Aboutus = () => {
     return (
-        <div id="aboutus-section" className="py-24 bg-[#f4f1eb]">
+        <div id="aboutus" className="py-24 bg-[#f4f1eb]">
             <div className='mx-auto max-w-7xl px-4 lg:px-10'>
                 <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center'>
                     {/* Left side - Content */}

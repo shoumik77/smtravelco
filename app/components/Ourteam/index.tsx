@@ -35,7 +35,7 @@ const CollegeFormals = () => {
     ];
 
     return (
-        <div id="manage-section" className="w-full bg-[#f4f1eb] py-24">
+        <div id="formals" className="w-full bg-[#f4f1eb] py-24">
             <div className="mx-auto max-w-7xl px-4 lg:px-8">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
                     {/* Left side - Image */}

@@ -89,7 +89,7 @@ export default class TripCarousel extends Component {
         };
 
         return (
-            <div id="wework-section" className="bg-[#f4f1eb] py-32">
+            <div id="experiences" className="bg-[#f4f1eb] py-32">
                 <div className='mx-auto max-w-2xl lg:max-w-7xl sm:py-4 lg:px-8'>
                     <div className="text-center mb-16">
                         <h3 className="text-4xl sm:text-6xl font-bold text-[#5e2b0c] my-2">Amazing Travel Experiences</h3>
