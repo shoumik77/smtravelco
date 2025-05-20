@@ -38,7 +38,7 @@ const Footer = () => {
                     'Accept': 'application/json'
                 },
                 body: JSON.stringify({
-                    access_key: 'ff99d58f-599c-4381-aef9-6887c30a4c14', // Replace with your actual access key
+                    access_key: 'WEB3FORMS_ACCESS_KEY', 
                     name: `${formData.firstName} ${formData.lastName}`,
                     email: formData.email,
                     message: formData.message,
